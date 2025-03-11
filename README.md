@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 Ensure you have the following installed:
 - Python 3.7+
 - Jupyter Notebook (optional)
-- Required libraries (install using the command below)
+- Required libraries (install - visit requirement.txt) 
 
 
 ## Dataset
