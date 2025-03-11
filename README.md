@@ -22,12 +22,8 @@ Ensure you have the following installed:
 
 ## Dataset
 The dataset contains clinical and laboratory test results, including features such as:
-- Age, Gender
-- Bilirubin Levels
-- Albumin, AST, ALT Levels
-- Presence of Hepatitis B or C
-- Alcohol Consumption
-
+https://www.kaggle.com/datasets/bhavanipriya222/liver-cirrhosis-prediction
+  
 ## Usage
 ### 1. Data Preprocessing
 Run the preprocessing script to clean and prepare data:
